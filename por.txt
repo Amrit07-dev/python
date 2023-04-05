@@ -1,0 +1,8 @@
+
+
+## POR
+ -->blockchain[solana, solidity]
+ -->DaapS
+ -->smark contracts
+ -->available pentesting in web3
+ --is it only wallet?
