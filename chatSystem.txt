@@ -1,0 +1,7 @@
+
+
+## live chat system 
+
+-->First a home page has a little info about site and has login and signup firsthome page provides some snippets of what you might get in the chat app
+
+-->After the that redirects to login page, user has to create an id with signing up with email and name and tagline.
