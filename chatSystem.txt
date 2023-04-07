@@ -5,3 +5,15 @@
 -->First a home page has a little info about site and has login and signup firsthome page provides some snippets of what you might get in the chat app
 
 -->After the that redirects to login page, user has to create an id with signing up with email and name and tagline.
+
+
+     say i want to build a chat system, where each user has its own unique identity with a decent type of security
+     -at first there is a login page redirecting to login form and signup for new users and there is also an admin
+      panel created for the creator with the most priviledges which is basically hidden from users and created for 
+      sole purpose of mangaging and controling the system.
+     -users should have the priviledge to create their own network inside that chat system that only them and others 
+      who have permission or credentials can access the network to create the network for their chat system they need
+      to have permission from admin and only after admin accepts their request they can start the process of creating 
+      their network in their system.
+
+
